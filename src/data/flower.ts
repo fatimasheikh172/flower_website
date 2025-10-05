@@ -39,7 +39,7 @@ export const flowers: Flower[] = [
     name: "Orchid",
     description:
       "Orchids are one of the largest and most diverse flower families, with over 28,000 species found worldwide. Known for their exotic appearance and lasting blooms, orchids symbolize beauty, luxury, and strength. Ancient Greeks associated them with fertility, while in Asia they are seen as symbols of refinement and prosperity. Beyond their ornamental charm, orchids also give us vanilla, derived from the orchid Vanilla planifolia. With proper care, orchids can live for decades, adding elegance wherever they grow.",
-    image: "/images/orchid_3.jpg",
+    image: "/images/Orchid_3.jpg",
   },
   {
     id: "daisy",
